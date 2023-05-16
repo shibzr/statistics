@@ -12,7 +12,7 @@ The objective of this repository is to explore fundamental statistics and probab
 ---
 
 ## Notebooks:
-* Probability distribution
+* [Probability distribution](https://github.com/shibzr/statistics/blob/main/Probability%20Distribution.ipynb "Notebook")
   - Uniform distribution
   - Binomial distribution
   - Multinomial distribution
