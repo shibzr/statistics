@@ -12,4 +12,21 @@ The objective of this repository is to explore fundamental statistics and probab
 ---
 
 ## Notebooks:
+* Probability distribution
+  - Uniform distribution
+  - Binomial distribution
+  - Multinomial distribution
+  - Bernoulli
+  - Poisson distribution
+  - Normal (Gaussian) distribution
+  - t distribution
+  - F distribution
+  - Chi-Square distribution
+  - Exponential distribution
+  - Log-normal distribution
+  - Beta distribution
+  - Gamma distribution
+  - Weibull distribution
+  - Largest extreme value distribution
+  
 
